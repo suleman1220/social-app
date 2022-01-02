@@ -1,6 +1,6 @@
 # SocialApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
+This is a simple full stack social application made with Angular(frontend), NodeJS(backend) and MongoDB(database).
 
 ## Development server
 
