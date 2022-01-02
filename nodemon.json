@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGODB_PSWD": "mongodb-password",
+    "JWT_KEY": "this-is-a-secret-key"
+  }
+}

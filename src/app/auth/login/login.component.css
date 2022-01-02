@@ -1,0 +1,18 @@
+mat-card {
+  width: 40rem;
+  margin: auto;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+mat-spinner {
+  margin-left: 3px;
+  display: inline-block;
+}
+
+:host ::ng-deep .mat-progress-spinner circle,
+.mat-spinner circle {
+  stroke: black;
+}

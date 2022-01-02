@@ -1,0 +1,38 @@
+:host {
+  display: block;
+}
+
+mat-expansion-panel {
+  width: 50rem;
+  margin: auto;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+mat-paginator {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-color: transparent;
+}
+
+.example-card {
+  max-width: 35rem;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+
+.info {
+  text-align: center;
+  color: white;
+  font-size: 1rem;
+}
+
+.post-img {
+  width: 100%;
+}
+
+.post-img img {
+  width: 100%;
+}
